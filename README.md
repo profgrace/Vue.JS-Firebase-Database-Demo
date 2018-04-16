@@ -4,3 +4,5 @@
 
 ## Demo
 http://techiegrace.com/bookbase
+
+> Check out the file: "VueJS & Firebase.pdf" above, for details on how to replicate this.
