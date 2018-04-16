@@ -1,6 +1,8 @@
 # vue-firebase-demo
 
-> Using Vuejs for frontend and Firebase to handle the database.
+> Book Database - Using Vuejs (frontend) and Firebase (database)
+
+
 
 ## Build Setup
 
